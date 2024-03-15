@@ -15,7 +15,8 @@ This repository will be used to track and regroup most/all the relevant methods 
 | Total segmentator | [paper](https://arxiv.org/abs/2208.05868) | [Yes](https://github.com/wasserth/TotalSegmentator) | Global segmentation | Whole body | CT | Yes (nnUNet) | 2022 |  |
 | HCA-NET | [paper](https://arxiv.org/abs/2311.12486) | [Yes](https://github.com/xmindflow/HCA-Net) | Discs detection | Cervical FOV | MRI (T1w/ T2w) | Yes | 2023 | Restricted to a specific FOV |
 | MRI to CT registration then segmentation | [paper](https://link.springer.com/article/10.1186/s41747-023-00385-2) | [Yes](https://github.com/robert-graf/Pointregistation) | Vertebrae and discs segmentations | Whole spine | MRI (T1w/ T2w) | Yes (Pix2Pix) | 2023 | Relying on VerSe and [SpineR](https://www.bonescreen.de/anduin) |
-| SPINEPS | [paper](https://paperswithcode.com/paper/spineps-automatic-whole-spine-segmentation-of) | [Yes](https://github.com/hendrik-code/spineps) | Vertebrae and discs segmentations | Whole spine | T2w | Yes (nnUNetV2) | 2024 | |
+| Vertebrae segmentation with anatomic consistency cycle | [paper](https://www.sciencedirect.com/science/article/pii/S0895611123000538?ref=pdf_download&fr=RR-2&rr=864ebae549544bd0) | [Yes](https://gitlab.inria.fr/spine/vertebrae_segmentation) | Vertebrae segmentation | Whole spine | CT | Yes | 2023 |  |
+| SPINEPS | [paper](https://paperswithcode.com/paper/spineps-automatic-whole-spine-segmentation-of) | [Yes](https://github.com/hendrik-code/spineps) | Vertebrae and discs segmentations | Whole spine | T2w | Yes (nnUNetV2) | 2024 | No label identification but accurate instance segmentation |
 
 ## See also
 
