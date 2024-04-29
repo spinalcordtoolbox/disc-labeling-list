@@ -27,8 +27,8 @@ NeuroPoly disc labeling implementations:
 
 ## Other public methods
 
-[VerSe](https://github.com/anjany/verse): A vertebrae labelling and segmentation benchmark for multi-detector CT images.
-[Panoptica](https://github.com/BrainLesion/panoptica): Public package to evaluate instance segmentations methods.
+- [VerSe](https://github.com/anjany/verse): A vertebrae labelling and segmentation benchmark for multi-detector CT images.
+- [Panoptica](https://github.com/BrainLesion/panoptica): Public package to evaluate instance segmentations methods.
 
 ## Contributions and Feedback
 
